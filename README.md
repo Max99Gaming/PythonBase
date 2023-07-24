@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://1000marche.net/wp-content/uploads/2021/10/Python-Logo.png"  />
+  <img height="250" src="https://1000marche.net/wp-content/uploads/2021/10/Python-Logo.png"  />
 </div>
 
 ###
