@@ -1,3 +1,13 @@
+<div align="center">
+  <img height="200" src="https://1000marche.net/wp-content/uploads/2021/10/Python-Logo.png"  />
+</div>
+
+###
+
+<h1 align="left">Python facile</h1>
+
+###
+
 Python è un linguaggio di programmazione ad alto livello, interpretato, dinamico e orientato agli oggetti. È un linguaggio molto popolare e utilizzato in molteplici contesti, come lo sviluppo web, l'analisi dei dati, l'intelligenza artificiale e la robotica.
 
 Ecco alcuni concetti base di Python con relativi esempi di codice:
