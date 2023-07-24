@@ -13,7 +13,7 @@ Python è un linguaggio di programmazione ad alto livello, interpretato, dinamic
 Ecco alcuni concetti base di Python con relativi esempi di codice:
 
 ### Variabili e tipi di dati
-[Scopri di più sulle variabili]([link-del-tuo-sito-o-documentazione](https://github.com/onlyymax/PythonBase/blob/main/VARIABILI.md))
+[Scopri di più sulle variabili](https://github.com/onlyymax/PythonBase/blob/main/VARIABILI.md)
 
 In Python, le variabili sono utilizzate per memorizzare valori. Il tipo di dato della variabile viene determinato automaticamente in base al valore che gli viene assegnato.
 
