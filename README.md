@@ -12,8 +12,6 @@ Python è un linguaggio di programmazione ad alto livello, interpretato, dinamic
 
 Ecco alcuni concetti base di Python con relativi esempi di codice:
 
-### Variabili e tipi di dati
-
 ## Variabili
 
 [Scopri di più sulle variabili](https://github.com/onlyymax/PythonBase/blob/main/VARIABILI.md)
